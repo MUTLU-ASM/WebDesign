@@ -38,3 +38,11 @@ Regarding pagination design efforts, changes were made to present the pages in a
 <div align="left">
   <img src="./WebDesign_5/Web5ss.jpg" alt="Web5ss" style="width: 40%; height: auto;">
 </div>
+
+### 6. WebDesign_6
+
+In this project, I worked on page layout, background image overlays, and the working principle of VH. I made design improvements related to page layout, background images, and VH usage.
+
+<div align="left">
+  <img src="./WebDesign_6/Web6ss.jpg" alt="Web6ss" style="width: 40%; height: auto;">
+</div>
