@@ -1,7 +1,8 @@
 # Web design projects
 
 ### 1. WebDesign_1
-Page layout, button shadowing, and icon usage design work has been completed. These changes enhance the user-friendliness and attractiveness of the website.  
+
+Page layout, button shadowing, and icon usage design work has been completed. These changes enhance the user-friendliness and attractiveness of the website.
 
 <div align="left">
   <img src="./WebDesign_1/Web1ss1.jpg" alt="Web1ss" style="width: 40%; height: auto;">
@@ -9,6 +10,7 @@ Page layout, button shadowing, and icon usage design work has been completed. Th
 </div>
 
 ### 2. WebDesign_2
+
 Work was done on the appearance of accordion tabs. These efforts resulted in a more appealing and user-friendly design for the tabs.
 
 <div align="left">
@@ -45,4 +47,12 @@ In this project, I worked on page layout, background image overlays, and the wor
 
 <div align="left">
   <img src="./WebDesign_6/Web6ss.jpg" alt="Web6ss" style="width: 40%; height: auto;">
+</div>
+
+### 7. WebDesign_7
+
+Page layout and scroll enhancements were made to improve the user experience.
+
+<div align="left">
+  <img src="./WebDesign_7/Web7ss.jpg" alt="Web6ss" style="width: 40%; height: auto;">
 </div>
