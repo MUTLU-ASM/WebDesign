@@ -30,6 +30,7 @@ Paragraph default : 1.6
 - Shades : #cf711f
 - Accents :
 - Greys
+#6f6f6f(lighest grey allowe on #fdf2e9)
   #555
   #333
 
@@ -78,8 +79,6 @@ body {
   display: grid;
   column-gap: 6.4rem;
   row-gap: 9.6rem;
-
-  align-items: center;
 }
 .grid--2-cols {
   grid-template-columns: repeat(2, 1fr);
